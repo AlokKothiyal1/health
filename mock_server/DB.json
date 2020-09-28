@@ -1,0 +1,86 @@
+{
+  "gained": [
+    {
+      "food": "rice",
+      "calories": "1000",
+      "id": 1
+    },
+    {
+      "food": "rice",
+      "calories": "1000",
+      "id": 2
+    },
+    {
+      "food": "rice",
+      "calories": "1000",
+      "id": 3
+    },
+    {
+      "food": "banana",
+      "calories": "500",
+      "id": 4
+    },
+    {
+      "food": "banana",
+      "calories": "200",
+      "id": 5
+    },
+    {
+      "food": "",
+      "calories": "200",
+      "id": 6
+    },
+    {
+      "food": "uu",
+      "calories": "200",
+      "id": 7
+    },
+    {
+      "food": "alok",
+      "calories": "55",
+      "id": 8
+    },
+    {
+      "food": "kk",
+      "calories": "522",
+      "id": 9
+    },
+    {
+      "food": "banana",
+      "calories": "33",
+      "id": 10
+    }
+  ],
+  "burned": [
+    {
+      "exercise": "run",
+      "calories": "200",
+      "id": 1
+    },
+    {
+      "exercise": "run",
+      "calories": "466",
+      "id": 2
+    },
+    {
+      "exercise": "gg",
+      "calories": "200",
+      "id": 3
+    },
+    {
+      "exercise": "run",
+      "calories": "500",
+      "id": 4
+    },
+    {
+      "exercise": "run",
+      "calories": "555",
+      "id": 5
+    },
+    {
+      "exercise": "run",
+      "calories": "333",
+      "id": 6
+    }
+  ]
+}
